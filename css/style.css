@@ -380,7 +380,7 @@ body {
 }
 #on .introduction .notice_bottom::after {
 	position: absolute;
-	top: -20px;
+	top: -10px;
 	left: 0;
 	content: "";
 	width: 100%;
